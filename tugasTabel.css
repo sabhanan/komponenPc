@@ -1,0 +1,119 @@
+    .AB{
+    background-color: black;
+    color: white;
+}
+.AC{
+    background-color: darkgray;
+    color: white;
+}
+.AD{
+    background-color: darkblue;
+    color: white;
+}
+.AE{
+    background-color: brown;
+    color: white;
+}
+.BB{
+    background-color: chartreuse;
+    color: white;
+}
+.BC{
+    background-color: gray;
+    color: white;
+}
+.BD{
+    background-color: brown;
+    color: white;
+}
+.BE{
+    background-color: coral;
+    color: white;
+}
+.CB{
+    background-color: gray;
+    color: white;
+}
+.CC{
+    background-color: lightgray;
+    color: white;
+}
+.CD{
+    background-color: beige;
+    color: white;
+}
+.CE{
+    background-color: teal;
+    color: white;
+}
+.DB{
+    background-color: white;
+}
+.DC{
+    background-color: burlywood;
+    color: white;
+}
+.DD{
+    background-color: chocolate;
+    color: white;
+}
+.DE{
+    background-color: purple;
+    color: white;
+}
+.EB{
+    background-color: pink;
+    color: white;
+}
+.EC{
+    background-color: lightpink;
+    color: white;
+}
+.ED{
+    background-color: paleturquoise;
+    color: white;
+}
+.EE{
+    background-color: coral;
+    color: white;
+}
+.FB{
+    background-color: fuchsia;
+    color: white;
+}
+.FC{
+    background-color: aqua;
+    color: white;
+}
+.FD{
+    background-color: red;
+    color: white;
+}
+.FE{
+    background-color: orange;
+    color: white;
+}
+.FA{
+    background-color: navy;
+    color: white;
+}
+
+body{
+    background-color: red;
+}
+
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+table, th{
+    border: 1px solid yellow;
+    border-collapse: collapse;
+    padding: 3px;
+}
+
+.we{
+    background-color: aqua;
+}
